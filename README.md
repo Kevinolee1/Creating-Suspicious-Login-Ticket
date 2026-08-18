@@ -9,4 +9,6 @@ Type in the ticket description and click create ticket.
 ![Image alt](https://github.com/Kevinolee1/Creating-Suspicious-Login-Ticket/blob/75e162927f0bd777c1b99c68ca8fa4064e3ccc58/Screenshot%202026-08-18%20011200.png)
 login the admin account.
 ![Iamge alt](https://github.com/Kevinolee1/Creating-Suspicious-Login-Ticket/blob/24dcfc48c91626ac52abf3434ec6d488c14db391/Screenshot%202026-08-18%20010634.png)
+Change the priority Level 
 ![Image alt](https://github.com/Kevinolee1/Creating-Suspicious-Login-Ticket/blob/6366f92cbc05c8cf07749c2f1d8049dc36a04b7b/Screenshot%202026-08-18%20010709.png)
+Assign SOC L1 Derrell to the Ticket
